@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="action_settings">Settings</string>
+    <string name="initial_fragment_label">Покемоны</string>
+    <string name="search_fragment_label">Поиск</string>
+    <string name="list_fragment_label">Список</string>
+    <string name="button_search">Поиск</string>
+    <string name="button_list">Список</string>
+    <string name="input_hint">Имя покемона</string>
+    <string name="rv_empty_message">Покедекс пуст!</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
